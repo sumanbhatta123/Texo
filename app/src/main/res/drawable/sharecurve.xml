@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape
+            android:padding="5dp"
+            android:shape="oval">
+            <solid android:color="#727C8E" />
+            <corners
+                android:bottomLeftRadius="5dp"
+                android:bottomRightRadius="5dp"
+                android:topLeftRadius="5dp"
+                android:topRightRadius="5dp" />
+        </shape>
+    </item>
+    <item
+        android:bottom="20dp"
+        android:drawable="@drawable/ic_arrow_upward_black_24dp"
+        android:left="20dp"
+        android:right="20dp"
+        android:top="20dp" />
+</layer-list>
+
+

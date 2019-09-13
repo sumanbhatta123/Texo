@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SwitchCompatStyle">
+        <item name="thumbTint">#707070</item>
+        <item name="trackTint">#FF7541</item>
+    </style>
+</resources>
